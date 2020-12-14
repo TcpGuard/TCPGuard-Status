@@ -128,7 +128,6 @@ params:
     - name: Node3 - Voxility
       description: Romania
     - name: Node4 - Psychz
-       description: CDN
 
   # These are your systems. Change them to
   # change the amount of components.
