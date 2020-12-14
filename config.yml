@@ -135,15 +135,15 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: America/Los_Angeles
-      category: Node1 - Voxility
-    - name: Singapore
-      category: Node2 - OVH
-    - name: Romania
-      category: Node3 - Voxility
-    - name: CDN , RProxy
+    - name: Voxility America/Los_Angeles
+      category: Node1  
+    - name: OVH Gamming Singapore
+      category: Node2 
+    - name: Voxility Romania
+      category: Node3 
+    - name: Psychz CDN , RProxy ( NL-2, LA-2, LON-1, DAL-1, JP-1 , SG-1, BR-1, MIA-1 )
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Node4 - Psychz
+      category: Node4
 
   # What date format to use?
   #
