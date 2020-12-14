@@ -6,7 +6,7 @@ resolvedWhen: 2020-12-14 16:24:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
-  - Payments API
+  - Voxility America/Los_Angeles
 section: issue
 ---
 
