@@ -228,8 +228,8 @@ params:
   # Format:
   # customTabs:
   #  -
-     name: TCPGuard
-     link: https://TCPGuard.com
+    # name: TCPGuard
+  #   link: https://TCPGuard.com
 
   # Disable complex server-side
   # calculations that may impact
