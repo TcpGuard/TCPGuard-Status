@@ -128,7 +128,7 @@ params:
     - name: Node3
       description: Voxility Romania
     - name: Node4
-      description: Psychz RP( NL-2, LA-2, LON-1, DAL-1, JP-1 , SG-1, BR-1, MIA-1 )
+      description: X4B GRE( NL-2, LA-2, LON-1, DAL-1, JP-1 , SG-1, BR-1, MIA-1 )
   # These are your systems. Change them to
   # change the amount of components.
   #
@@ -141,7 +141,7 @@ params:
       category: Node2 
     - name: Voxility Romania
       category: Node3 
-    - name: Psychz RP( NL-2, LA-2, LON-1, DAL-1, JP-1 , SG-1, BR-1, MIA-1 )
+    - name: X4B GRE( NL-2, LA-2, LON-1, DAL-1, JP-1 , SG-1, BR-1, MIA-1 )
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Node4
 
